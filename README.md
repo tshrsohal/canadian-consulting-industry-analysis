@@ -38,8 +38,5 @@ A star schema was implemented:
 - Analyzed cost structure (salary impact)
 - Evaluated year-over-year growth trends
 
-## Dashboard Preview
-![Dashboard Screenshot](Dashboard Screenshot.png)
-
 ## Outcome
 This analysis demonstrates financial modeling, DAX calculations, and dashboard design skills.
