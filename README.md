@@ -1,7 +1,7 @@
 # Canadian Consulting Industry Financial Performance Analysis
 
 ## Project Overview
-This project analyzes financial performance trends across Canada’s consulting industry using Excel Power Pivot and DAX.
+This project analyzes financial performance trends across Canada’s consulting industry using a real world dataset from Statistics Canada, Excel Power Pivot and DAX.
 
 The objective was to evaluate:
 - Revenue growth trends
@@ -31,6 +31,12 @@ A star schema was implemented:
 - Profit ($M)
 - Profit Margin (%)
 - Revenue YoY Growth (%)
+
+## Screenshots
+<img width="812" height="293" alt="image" src="https://github.com/user-attachments/assets/21c01558-fe00-4138-8a4a-422243ae6c56" />
+<img width="680" height="296" alt="image" src="https://github.com/user-attachments/assets/f26cd5db-d144-40c7-9a36-4474c07ebcd3" />
+<img width="934" height="295" alt="image" src="https://github.com/user-attachments/assets/08b76d27-2345-4b45-876f-f4ae85ab6e28" />
+
 
 ## Business Insights
 - Identified high-revenue consulting segments
